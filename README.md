@@ -7,9 +7,7 @@ Welcome to my House Price Prediction project using Linear Regression. This proje
 - [Dataset](#dataset)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
